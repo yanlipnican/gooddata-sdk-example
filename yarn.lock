@@ -868,10 +868,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@gooddata/gooddata-js@11.3.0":
-  version "11.3.0"
-  resolved "https://registry.yarnpkg.com/@gooddata/gooddata-js/-/gooddata-js-11.3.0.tgz#3a32b4738982bca6634a0a832329e758e7e864da"
-  integrity sha512-i4BCMVPkuG1c62QiJWYWDjLFoi63x6MeNFGgkftl2Merjfdt2ylq1c/553Oyef18i9CatWfrtynS2jtkjkyw9g==
+"@gooddata/gooddata-js@11.3.1-yanlipnican-jli-bb-1406-2019-03-05T13-16-33-291Z":
+  version "11.3.1-yanlipnican-jli-bb-1406-2019-03-05T13-16-33-291Z"
+  resolved "https://registry.yarnpkg.com/@gooddata/gooddata-js/-/gooddata-js-11.3.1-yanlipnican-jli-bb-1406-2019-03-05T13-16-33-291Z.tgz#f3aeb85c30dbd5f241cd130c296946396434031e"
+  integrity sha512-wBmeuMMyMMqgKT4q39q7P6JDvsH2VKfcG13D7vbQr+F7Qt0a9qeLrMw8e+re3LVpE3isLfJtVPelj5LBhClPwA==
   dependencies:
     "@gooddata/typings" "2.7.1"
     es6-promise "3.0.2"
@@ -930,12 +930,12 @@
   resolved "https://registry.yarnpkg.com/@gooddata/numberjs/-/numberjs-3.2.2.tgz#4164b4d7d39385ed63cea7ad0ed53b4d7dbfd276"
   integrity sha512-KJpzlPmDNEjALb1gVN99mWNWN7ILIeAVn0SxT/cFUgtGxtXOHolZnXDsakUtdeJTg2O6u93CZqcOSwsQ981fUA==
 
-"@gooddata/react-components@6.3.0-yanlipnican-jli-bb-1406-2019-02-28T12-12-51-120Z":
-  version "6.3.0-yanlipnican-jli-bb-1406-2019-02-28T12-12-51-120Z"
-  resolved "https://registry.yarnpkg.com/@gooddata/react-components/-/react-components-6.3.0-yanlipnican-jli-bb-1406-2019-02-28T12-12-51-120Z.tgz#d703a1c1dbf58b530e8244f745e134ce1ea3ec6d"
-  integrity sha512-g6GFv7WA9NU5pN4+LV5QAY6NAawbvQpN2y80s2BBiAXWtmidq3I4sVKXFgZSt7cq6GtU8R6FD9UF81rgK6M9Ng==
+"@gooddata/react-components@6.3.0-yanlipnican-jli-bb-1406-2019-03-05T13-17-55-158Z":
+  version "6.3.0-yanlipnican-jli-bb-1406-2019-03-05T13-17-55-158Z"
+  resolved "https://registry.yarnpkg.com/@gooddata/react-components/-/react-components-6.3.0-yanlipnican-jli-bb-1406-2019-03-05T13-17-55-158Z.tgz#419da8f8e030fad2b80467005381241fde7ca759"
+  integrity sha512-HyBPoEowxA94eLEYIGcHIkPdALAQAmXjIn0NRGiL3+9qUTeSTuz6ycVkB5hs5Z4DsjKjA/hmWc3k0n9tUnye+g==
   dependencies:
-    "@gooddata/gooddata-js" "11.3.0"
+    "@gooddata/gooddata-js" "11.3.1-yanlipnican-jli-bb-1406-2019-03-05T13-16-33-291Z"
     "@gooddata/goodstrap" "60.0.0"
     "@gooddata/js-utils" "3.4.0"
     "@gooddata/numberjs" "^3.1.2"

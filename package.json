@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@gooddata/react-components": "6.3.0-yanlipnican-jli-bb-1406-2019-02-28T12-12-51-120Z",
+    "@gooddata/react-components": "6.3.0-yanlipnican-jli-bb-1406-2019-03-05T13-17-55-158Z",
     "node-sass": "^4.11.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
